@@ -1,0 +1,18 @@
+.header{
+    border: solid;
+    border-width: 0.3cm;
+    
+}
+.whole{
+    background-color:#899e8b;
+    border: solid;
+    color: #053803;
+}
+.links{
+    border:solid;
+    border-width: 0.1cm;
+    background-color: #05380c;
+}
+h2{
+    color: #ffffff;
+}
